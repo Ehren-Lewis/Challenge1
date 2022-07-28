@@ -156,4 +156,29 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# Challenge1
+
+
+HoriseonSemantics
+
+Contributors: Ehren Lewis
+
+This application is the landing paged for the company Horiseon.
+I used html and css as the technolgy, and only these because their website didn't
+require dynamic browsing. The challenges I faced when refactoring the code
+was insuring there were no typos when trying to add css selectors to the html elements.
+I hope in the future to further refactor the code to make sure there is no repition, 
+or possibly add some dynamic features to the website.
+
+Known bugs: There are some issues with the responsiveness on smaller screens
+
+
+link to live site: https://ehren-lewis.github.io/HoriseonSemantics/
+link to repository: https://github.com/Ehren-Lewis/HoriseonSemantics
+
+
+Screenshots of the landing page:
+
+
+![](./Develop/screenshot-images/topOfPage.png)
+![](./Develop/screenshot-images/middleOfPage.png)
+![](./Develop/screenshot-images/bottomOfPage.png)
