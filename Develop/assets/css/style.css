@@ -26,6 +26,7 @@ header h1 {
     color: #d9dcd6;
 }
 
+/* Changed class selector to header for semantic element */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -129,6 +130,8 @@ p {
     font-size: 36px;
 }
 
+
+/* Changed class footer to the semantic element footer for specificity */
 footer {
     padding: 30px;
     clear: both;
